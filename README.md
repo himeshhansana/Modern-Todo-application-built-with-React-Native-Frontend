@@ -1,4 +1,4 @@
-# 📝 ToDoFrontEnd-Hansana
+# 📝 Modern Todo application built with React-Native Frontend
 
 A beautiful and modern Todo application built with React Native and Expo, featuring stunning animations, gradient designs, and a seamless user experience.
 
